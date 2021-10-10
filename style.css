@@ -1,0 +1,23 @@
+.iconamoon {
+	display:inline-block;
+    speak:never;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    text-transform:none;
+    line-height:var(--IconaMoon-Icon-Size);
+    vertical-align:middle;
+}
+
+.iconamoon svg {
+	width:var(--IconaMoon-Icon-Size);
+	height:var(--IconaMoon-Icon-Size);
+}
+
+.iconamoon svg *[stroke="#242328"]{
+	stroke:var(--IconaMoon-Icon-Color)
+}
+
+.iconamoon svg *[fill="#242328"]{
+	fill:var(--IconaMoon-Icon-Color)
+}
