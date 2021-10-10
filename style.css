@@ -1,15 +1,16 @@
-.iconamoon {
+	.iconamoon {
 	display:inline-block;
-    speak:never;
-    font-style:normal;
-    font-weight:normal;
-    font-variant:normal;
-    text-transform:none;
-    line-height:var(--IconaMoon-Icon-Size);
-    vertical-align:middle;
+	speak:never;
+	font-style:normal;
+	font-weight:normal;
+	font-variant:normal;
+	text-transform:none;
+	line-height:var(--IconaMoon-Icon-Size);
+	vertical-align:middle;
 }
 
 .iconamoon svg {
+	display:block;
 	width:var(--IconaMoon-Icon-Size);
 	height:var(--IconaMoon-Icon-Size);
 }
